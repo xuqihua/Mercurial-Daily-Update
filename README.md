@@ -1,5 +1,5 @@
 #Mercurial-Daily-Update
-My CVS soft is Mercurial，SO when I am working on several projects at the same time, I need to pull&update all my repos, So that's the work this shell DO.
+My CVS soft is Mercurial，So when I am working on several projects at the sametime, I need to pull&update all my repos, So that's the work this shell DO.
 Just feel free to use it!
 
 ##How
