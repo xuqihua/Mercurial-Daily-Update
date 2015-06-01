@@ -1,6 +1,10 @@
 #!/bin/bash
 
-DIRS=$(cat ./dirs.conf)
+SHELL_PATH=`dirname $0`
+echo $SHELL_PATH
+exit
+
+DIRS=$(cat $SHELL_PATH/dirs.conf)
 
 for dir in ${DIRS}
 do
